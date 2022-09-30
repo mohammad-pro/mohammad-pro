@@ -4,7 +4,7 @@
  <h3>👨‍💻 About Me :</h3>
 <div>
    :telescope:  I’m working as a Software Engineer and contributing to the frontend of building web applications.
-  
+   :zap: Front-end development using HTML,CSS,Tailwind,Javascript,react js
 </div>
 
 <!--
