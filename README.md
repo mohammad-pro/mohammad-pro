@@ -1,5 +1,7 @@
 <div id="header" >
   <h1>  Hi 👋 I am Mohammad Hossein </h1>
+  Hello, I am Mohammad Hossein from Iran.
+I am a computer engineering graduate and I got acquainted with programming about three years ago and I am currently working in the field of front end. with love
 </div>
  <h2>👨‍💻 About Me :</h2>
 <div>
