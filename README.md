@@ -1,19 +1,22 @@
-<div id="header" >
-  <h1>  Hi 👋 I am Mohammad Hossein </h1>
+
+  Hi 👋 I am Mohammad Hossein
+  ===========================
   Hello, I am Mohammad Hossein from Iran.
   I am a computer engineering graduate and I got acquainted with programming about three years ago and I am currently working in the field of front end.    with love
-</div>
+  ### Socials
+  <p align="left"><a href="https://www.github.com/mohammad-pro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohammad.frontend" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
- <h2>👨‍💻 About Me :</h2>
+ 👨‍💻 About Me :
+ -------------
  
-<div>
+
    :telescope:   I’m working as a Software Engineer and contributing to the frontend of building web applications.</br>
    :zap:  Front-end development using HTML,CSS,Tailwind,Javascript,react js </br>
    :heart:  Technology lover
-</div>
 
-<h3>Skills</h3>
-<div>
+
+### Skills
+
   
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -23,7 +26,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
 </p>
-</div>
 
 <!--
 **mohammad-pro/mohammad-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
