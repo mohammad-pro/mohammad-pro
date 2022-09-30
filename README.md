@@ -1,8 +1,10 @@
 <div id="header" >
   <h1>  Hi 👋 My name is Mohammad Hossein </h1>
 </div>
+### :woman_technologist: About Me :
 <div>
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope:  I’m working as a Software Engineer and contributing to the front end of building web applications.
+  
 </div>
 
 <!--
