@@ -3,7 +3,7 @@
 </div>
  <h3>👨‍💻 About Me :</h3>
 <div>
-  - :telescope:  I’m working as a Software Engineer and contributing to the front end of building web applications.
+   :telescope:  I’m working as a Software Engineer and contributing to the frontend of building web applications.
   
 </div>
 
