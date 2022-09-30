@@ -3,7 +3,6 @@
   ===========================
   Hello, I am Mohammad Hossein from Iran.
   I am a computer engineering graduate and I got acquainted with programming about three years ago and I am currently working in the field of front end.    with love
-  ### Socials
   <p align="left"><a href="https://www.github.com/mohammad-pro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohammad.frontend" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
  👨‍💻 About Me :
