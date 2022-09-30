@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" >
   <h1>hellop</h1>
 </div>
 
